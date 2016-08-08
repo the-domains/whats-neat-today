@@ -1,0 +1,14 @@
+layout_spectrum: 0.13776052044704556
+typography_spectrum: 0.9426612686365843
+color:
+  brandStrength: 0.1520963883958757
+  lightness: 0.3401847982313484
+  saturation: 0.47720689233392477
+  rhythmicContrast: 0.07033068919554353
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: What's Neat Today
