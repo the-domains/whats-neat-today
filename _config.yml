@@ -1,4 +1,3 @@
-layout_spectrum: 0.13776052044704556
 typography_spectrum: 0.9426612686365843
 color:
   brandStrength: 0.1520963883958757
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.13776052044704556
 name: What's Neat Today
+title: What's Neat Today!
 description: Aggregating the Best
